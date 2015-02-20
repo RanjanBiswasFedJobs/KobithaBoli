@@ -23,6 +23,7 @@ namespace KobithaBoli.MVC.Controllers
             return View();
         }
 
+     
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
@@ -30,6 +31,13 @@ namespace KobithaBoli.MVC.Controllers
             return View();
         }
 
+        public ActionResult Poem()
+        {
+            ViewBag.Message = "Your Poetry page.";
+
+            return View();
+        }
+   
 
     }
 }
