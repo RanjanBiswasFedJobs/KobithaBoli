@@ -1,0 +1,5 @@
+C:\JqueryMobile\KobithaBoli\KobithaBoli\KobithaBoli.Data.Contracts\bin\Debug\KobithaBoli.Data.Contracts.dll
+C:\JqueryMobile\KobithaBoli\KobithaBoli\KobithaBoli.Data.Contracts\bin\Debug\KobithaBoli.Data.Contracts.pdb
+C:\JqueryMobile\KobithaBoli\KobithaBoli\KobithaBoli.Data.Contracts\obj\Debug\KobithaBoli.Data.Contracts.csprojResolveAssemblyReference.cache
+C:\JqueryMobile\KobithaBoli\KobithaBoli\KobithaBoli.Data.Contracts\obj\Debug\KobithaBoli.Data.Contracts.dll
+C:\JqueryMobile\KobithaBoli\KobithaBoli\KobithaBoli.Data.Contracts\obj\Debug\KobithaBoli.Data.Contracts.pdb
