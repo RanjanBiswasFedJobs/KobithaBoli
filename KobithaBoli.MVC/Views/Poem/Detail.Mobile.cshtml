@@ -6,5 +6,17 @@
 
 <h1>Poem Details</h1>
 
+<script>
 
+    $(document).bind("pagebeforeshow", function (e, data) {
+     
+    var $footers = $(document).find('div[data-role="footer"]');
+    $footers.find('a').removeClass("ui-btn-active");
+    $footers.find('a[data-name="poem"]').addClass("ui-btn-active");
+
+});
+
+
+
+</script>
 
